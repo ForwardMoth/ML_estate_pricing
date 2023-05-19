@@ -1,4 +1,4 @@
-# Forecasting real estate prices based on the [Sberbank Russian Housing Market dataset](https://www.kaggle.com/c/sberbank-russian-housing-market)
+# Real estate price prediction based on [Sberbank Russian Housing Market dataset](https://www.kaggle.com/c/sberbank-russian-housing-market) 
 
 ## Annotation  
 
